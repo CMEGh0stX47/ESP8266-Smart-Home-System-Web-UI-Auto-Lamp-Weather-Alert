@@ -40,6 +40,9 @@ Sistem **Smart Home berbasis ESP8266** dengan Web Dashboard untuk monitoring sen
 
 ⚠️ Jangan upload API Key asli ke repository publik.
 
+![image](https://github.com/user-attachments/assets/e096d7b7-bb7d-497a-b716-69ac4b2d373a)
+
+
 ## 🧠 Cara Kerja
 ESP8266 membaca sensor dan API cuaca secara berkala, lalu menampilkan data di Web Dashboard dan mengontrol perangkat sesuai mode yang dipilih.
 
